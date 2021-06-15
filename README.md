@@ -4,6 +4,9 @@
 
 + This is to demonstrate how to render Named Entity Recognition with Displacy in Flask.Project uses CoNLL format for text input for training and testing or you can directly use SpaCy format. We have made use of spaCy framework and fastext embeddings to complete this project. Complete datails is mentioned in the documentation.
 
+Add Vector file in /hindiNER folder...........(https://drive.google.com/file/d/17BlKtuFeATIgXxv7U1xZZ2lz2EECu7tt/view?usp=sharing).
+Dataset Used...........(https://drive.google.com/file/d/1-FYjK6Ifmz2c_AZcAVTaS8dB7_6G6bBk/view?usp=sharing).
+
 ## Output Screenshots.
 
 
